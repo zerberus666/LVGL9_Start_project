@@ -3,6 +3,7 @@
 
 #define SDL_MAIN_HANDLED
 
+#include <stdio.h>
 #include "stdint-gcc.h"
 #include <SDL2/SDL.h>
 #include "lvgl.h"
