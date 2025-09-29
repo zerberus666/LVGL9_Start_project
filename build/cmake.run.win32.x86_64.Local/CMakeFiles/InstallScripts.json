@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/cmake_install.cmake",
+		"C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/lvgl/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

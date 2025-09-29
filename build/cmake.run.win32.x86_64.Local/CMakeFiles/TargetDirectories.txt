@@ -1,0 +1,17 @@
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/CMakeFiles/main.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/CMakeFiles/edit_cache.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/CMakeFiles/rebuild_cache.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/CMakeFiles/list_install_components.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/CMakeFiles/install.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/CMakeFiles/install/local.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/CMakeFiles/install/strip.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/lvgl/CMakeFiles/lvgl.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/lvgl/CMakeFiles/lvgl_thorvg.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/lvgl/CMakeFiles/lvgl_examples.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/lvgl/CMakeFiles/lvgl_demos.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/lvgl/CMakeFiles/edit_cache.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/lvgl/CMakeFiles/rebuild_cache.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/lvgl/CMakeFiles/list_install_components.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/lvgl/CMakeFiles/install.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/lvgl/CMakeFiles/install/local.dir
+C:/Users/farid/eclipse-workspace/LVGL_Start_Proj/build/cmake.run.win32.x86_64.Local/lvgl/CMakeFiles/install/strip.dir
